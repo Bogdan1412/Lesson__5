@@ -1,0 +1,194 @@
+/* &display=swap */
+@import "null.css";
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap);
+/* =============================================figma=================== */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+.figma__statictics {
+	font-family: lato;
+	margin: 190px 0 0 0;
+}
+.statictics__container {
+	max-width: 810px;
+	margin: 0 auto;
+}
+.container {}
+.statictics__title {
+	font-weight: 900;
+   font-size: 46px;
+   line-height: 130%;
+	color: #1E212C;
+}
+.statictics {
+	margin: 92px 0 60px 0;
+}
+.statictics__text {
+}
+.statictics__text .black__top {
+	font-weight: bold;
+   font-size: 20px;
+   line-height: 150%;
+   color: #1E212C;
+}
+ .statictics__text  p{
+	margin: 0px 0px 24px 0px;
+	 color: #424551;
+	font-weight: normal;
+   font-size: 16px;
+   line-height: 160%; 
+	font-style: normal; 
+}
+.statictics__text .blask__indent {
+	padding-left: 58px;
+  font-style: normal;
+   font-weight: bold;
+   font-size: 20px;
+   line-height: 150%;
+	color: #1E212C;
+}
+.blask__indent {
+	font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 160%
+}
+.statictics__menu{
+	padding: 0 0 0 25px;
+	font-style: normal;
+   font-weight: normal;
+   font-size: 16px;
+   line-height: 160%;
+	color: #424551;
+}
+.statictics__bottom-text {
+	padding-top: 24px;
+}
+/*               vikings                                     */
+.vikings__container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+.mane {
+	
+}
+.vikings__history {
+	font-family: loto;
+}
+.vikings__title {
+	color: seagreen ;
+}
+.title {
+	text-align: center;
+	font-size: 50px;
+	margin: 30px 0;
+}
+.vikings__img{
+	min-width: 800px;
+}
+.vikings__text-top {
+	margin-top: 30px;
+}
+.top__link {
+	color: indigo;
+	text-decoration: underline;
+	font-size: 20px;
+}
+.vikings__text-top p {
+   padding-bottom: 20px;
+	text-shadow: 1px 1px 1px coral;
+}
+.vikings__text-top {
+	color: lightcoral;
+}
+.text-green {
+	color: green;
+	text-transform: uppercase;
+}
+.top__link {}
+.the__viking {
+}
+.the__viking p{
+	overflow: auto;
+	max-height: 90px;
+	margin: 0 0 30px 0;
+}
+.text__shadow{
+	text-shadow: 1px 1px 1px #000;
+}
+.text__through{
+	color: rgba(27, 27, 245, 0.644);
+	text-decoration: line-through;
+}
+.the__title {
+	text-align: right;
+	color: cornflowerblue;
+}
+.text__index{
+	text-indent: 25px;
+	color: rgb(173, 33, 33);
+}
+.text__spacing{
+	letter-spacing: 0.1em;
+	color: aquamarine;
+}
+.text__derection-over {
+	text-decoration: overline;
+	line-height: 1.8;
+	color: rgb(235, 160, 160);
+}
+.the__img {
+	margin: 50px 0;
+	max-width: 800px;
+}
+.age__text-bottom p {
+	margin: 20px 0;
+}
+.age__title{
+	text-align: left;
+	color: burlywood;
+	text-decoration: underline;
+}
+.age__shadow{
+	text-shadow: 10px 10px 30px rgb(216, 171, 171), 5px 2px 10px rgb(112, 29, 29); 
+}
+.age__underlaine{
+	text-decoration: overline;
+	text-transform: uppercase;
+	color: coral;
+	text-shadow: 10px 10px 30px rgb(110, 10, 10), 5px 2px 10px rgb(27, 151, 16); 
+}
+.age__shadow{
+	text-decoration: underline;
+	text-shadow:rgb(235, 160, 160) ,rgb(58, 21, 21) ;
+}
+.age__overflow{
+	color: rgba(27, 27, 245, 0.644);
+}
+ul li{
+margin: 0 0 20px 0;
+}
+ul a{
+	color: rgb(150, 29, 85);
+	text-decoration:underline;
+}
+.history__tittle{
+	text-decoration: underline;
+	color: hotpink;
+}
+.item__blu{
+	color: blue;
+}
+.item__svart{
+	text-shadow: 10px 10px 30px rgba(27, 228, 70, 0.671), 5px 2px 10px rgb(10, 15, 10); 
+	text-decoration: line-through;
+	color: rgb(41, 33, 33);
+}
+.item__green{
+	color: rgb(34, 70, 34);
+	text-decoration: overline;
+}
+
+
+
